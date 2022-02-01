@@ -1,0 +1,25 @@
+{
+	"name": "adecoder/eloquent",
+	"description": "PDO Connection and MySQL Queries in PHP",
+	"keywords": [],
+	"type": "library",
+	"require": {
+		"php": ">=8.0"
+	},
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Adecoder\\Eloquent\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "md-aamroni",
+			"email": "md.aamroni@gmail.com",
+			"role": "Software Engineer",
+			"homepage": "https://md-aamroni.github.io"
+		}
+	],
+	"minimum-stability": "stable",
+	"require-dev": {}
+}

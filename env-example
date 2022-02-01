@@ -1,0 +1,6 @@
+DB_APP_HOST=localhost
+DB_APP_PORT=3308
+DB_APP_NAME=xtra_guideasy_app_rdb
+DB_APP_CHAR=utf8mb4
+DB_APP_USER=root
+DB_APP_PASS=
